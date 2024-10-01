@@ -7,3 +7,7 @@ header ul {
     font-size: 20px;
     font-weight: 600;
 }
+
+header ul li {
+    background-color: black;
+}
