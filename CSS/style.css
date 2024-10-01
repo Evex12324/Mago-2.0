@@ -25,7 +25,7 @@ section.titulo {
     display: grid;
     justify-content: center;
     text-align: center;
-    margin: 30vh 0;
+    margin: 28vh 0;
 }
 
 section.titulo h1 {
@@ -34,7 +34,7 @@ section.titulo h1 {
 }
 
 section.titulo p {
-    max-width: 450px;
+    max-width: 550px;
     font-size: 36px;
     opacity: 0.9;
 }
