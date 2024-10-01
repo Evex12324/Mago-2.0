@@ -29,12 +29,12 @@ section.titulo {
 }
 
 section.titulo h1 {
-    font-size: 40px;
+    font-size: 80px;
     font-weight: 800;
 }
 
 section.titulo p {
     max-width: 450px;
-    font-size: 18px;
+    font-size: 36px;
     opacity: 0.9;
 }
