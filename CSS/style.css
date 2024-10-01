@@ -2,4 +2,6 @@ header ul {
     display: flex;
     justify-content: center;
     gap: 80px;
+    background-color: aqua;
+    padding: 15px;
 }
