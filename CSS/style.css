@@ -9,8 +9,6 @@ header ul {
 }
 
 header ul li {
-    background-color: white;
-    
     padding: 5px 0;
     width: 12%;
     text-align: center;
@@ -18,7 +16,7 @@ header ul li {
 }
 
 header ul li:hover {
-    border-radius: 9px;
+    border-radius: 12px;
     background-color: black;
     color: white;
     opacity: 0.7;
