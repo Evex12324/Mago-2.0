@@ -23,7 +23,7 @@ header ul li:hover {
 
 section.titulo {
     background-color: aquamarine;
-    text-align: center;
+    display: grid;
 }
 
 section.titulo h1 {
