@@ -35,5 +35,7 @@ section.titulo h1 {
 
 section.titulo p {
     background-color: brown;
-    max-width: 500px;
+    max-width: 450px;
+    font-size: 18px;
+    opacity: 0.9;
 }
