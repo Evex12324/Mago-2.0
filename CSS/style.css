@@ -26,7 +26,7 @@ section.titulo {
     display: grid;
     justify-content: center;
     text-align: center;
-    margin: 25vh;
+    margin: 30vh 0;
 }
 
 section.titulo h1 {
