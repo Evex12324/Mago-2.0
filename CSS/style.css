@@ -15,7 +15,7 @@ header ul li {
 }
 
 header ul li:hover {
-    border-radius: 19px;
+    border-radius: 20px;
     background-color: black;
     color: white;
     opacity: 0.7;
@@ -24,18 +24,18 @@ header ul li:hover {
 section.titulo {
     display: grid;
     justify-content: center;
-    gap: 20px;
+    gap: 15px;
     text-align: center;
-    margin: 28vh 0;
+    margin: 25vh 0;
 }
 
 section.titulo h1 {
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 800;
 }
 
 section.titulo p {
-    max-width: 750px;
-    font-size: 36px;
+    max-width: 700px;
+    font-size: 30px;
     opacity: 0.8;
 }
