@@ -21,6 +21,13 @@ header ul li:hover {
     opacity: 0.7;
 }
 
-main section.titulo {
+section.titulo {
     background-color: aquamarine;
+    text-align: center;
+}
+
+section.titulo h1 {
+    
+    font-size: 40px;
+    font-weight: 800;
 }
