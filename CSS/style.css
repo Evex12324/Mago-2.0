@@ -24,7 +24,6 @@ header ul li:hover {
 section.titulo {
     display: grid;
     justify-content: center;
-    gap: 10px;
     text-align: center;
     margin: 25vh 0;
 }
