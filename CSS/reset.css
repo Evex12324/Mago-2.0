@@ -6,6 +6,7 @@
     margin: 0;
 }
 
-header ul li {
-    list-style: none;
+a {
+    text-decoration: none;
 }
+
