@@ -1,3 +1,13 @@
+::-webkit-scrollbar {
+    background-color: white;
+    width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 12px;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -16,7 +26,7 @@ header ul {
 }
 
 header ul li {
-    width: 10%;
+    width: 15%;
 }
 
 header ul li a {
@@ -25,7 +35,6 @@ header ul li a {
     display: flex;
     justify-content: center;
     transition: 0.2s;
-    
 }
 
 header ul li a:hover {
@@ -45,6 +54,13 @@ section.titulo {
 section.titulo h1 {
     font-size: 70px;
     font-weight: 800;
+
+    background: linear-gradient(to right, #FABC3F, #E85C0D, #C7253E, #821131);
+    background-clip: text;
+    color: transparent;
+
+    background-size: 180%;
+    animation: gradient-animation 3s ease infinite;
 }
 
 section.titulo p {
@@ -64,4 +80,18 @@ footer {
 footer h3 {
     font-weight: 500;
     letter-spacing: 10px;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 50% 100%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
 }
