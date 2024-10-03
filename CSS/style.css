@@ -15,15 +15,20 @@ header ul {
     font-weight: 600;
 }
 
-header ul a {
-    padding: 5px 0;
-    width: 15%;
-    text-align: center;
-    transition: 0.2s;
-    color: black;
+header ul li {
+    width: 10%;
 }
 
-header ul a:hover {
+header ul li a {
+    color: black;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
+    transition: 0.2s;
+    
+}
+
+header ul li a:hover {
     border-radius: 20px;
     background-color: black;
     color: white;
