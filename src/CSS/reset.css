@@ -13,3 +13,7 @@ a {
 header li {
     list-style: none;
 }
+
+section {
+    height: 100vh;
+}
