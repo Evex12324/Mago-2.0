@@ -92,7 +92,8 @@ header ul li a:hover {
     font-size: 30px;
     font-weight: 500;
     opacity: 0.9;
-    max-width: 500px;
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 footer {
