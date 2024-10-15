@@ -77,6 +77,10 @@ header ul li a:hover {
     font-style: italic;
 }
 
+.raca {
+    background-color: beige;
+}
+
 .raca h1 {
     text-align: center;
     font-size: 60px;
