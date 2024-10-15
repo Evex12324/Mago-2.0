@@ -79,12 +79,11 @@ header ul li a:hover {
 
 .raca {
     background-color: beige;
-    display: grid;
-    align-items: center;
+    text-align: center;
 }
 
 .raca h1 {
-    text-align: center;
+    
     font-size: 60px;
 }
 
