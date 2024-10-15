@@ -79,9 +79,8 @@ header ul li a:hover {
 
 .raca {
     background-color: beige;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    display: grid;
+    align-items: center;
 }
 
 .raca h1 {
