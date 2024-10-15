@@ -88,6 +88,11 @@ header ul li a:hover {
     font-size: 60px;
 }
 
+.raca p {
+    font-size: 30px;
+    font-weight: 500;
+}
+
 footer {
     background-color: black;
     color: white;
