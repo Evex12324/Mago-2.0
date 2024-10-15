@@ -80,6 +80,7 @@ header ul li a:hover {
 .raca {
     background-color: beige;
     text-align: center;
+    display: grid;
 }
 
 .raca h1 {
