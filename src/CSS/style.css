@@ -91,6 +91,8 @@ header ul li a:hover {
 .raca p {
     font-size: 30px;
     font-weight: 500;
+    opacity: 0.9;
+    max-width: 500px;
 }
 
 footer {
