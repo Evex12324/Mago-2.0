@@ -15,6 +15,7 @@
 
 html {
     scroll-behavior: smooth;
+    color: black;
 }
 
 header ul {
@@ -31,7 +32,6 @@ header ul li {
 }
 
 header ul li a {
-    color: black;
     padding: 5px 0;
     display: flex;
     justify-content: center;
